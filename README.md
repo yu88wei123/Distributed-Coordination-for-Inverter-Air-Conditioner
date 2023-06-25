@@ -1,5 +1,5 @@
 # Distributed-Coordination-for-Inverter-Air-Conditioner
-These codes correspond to the simulation section of the paper "A Distributed Coordinated Framework with Fair Comfort Level Sharing for Inverter Air Conditioner in Auxiliary Services ".
+These codes correspond to the simulation section of the paper "A Distributed Coordinated Framework with Fair Comfort Level Sharing for Inverter Air Conditioner in Auxiliary Services ". The software used is matlab 2021a, there are several files. 
 
 1.TimeDelay.mlx is the simulation file of IACs following the reference power at different time delays.
 
